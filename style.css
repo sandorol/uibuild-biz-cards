@@ -36,7 +36,13 @@ p {
     font-family:  'EB Garamond', serif;
     font-weight: normal;
     line-height: 10%;
-    }
+}
 .city {
     margin-bottom: 15%;
+}
+
+@media only screen and (max-width: 600px) {
+body {
+    flex-direction: column;
+}
 }
