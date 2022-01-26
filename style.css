@@ -1,0 +1,42 @@
+body {
+    background-color: #ffeedf;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 62px;
+    align-items: center;
+    justify-content: center;
+}
+div {
+    height: 416px;
+    width: 290px;
+    background-color: #fff;
+    padding: 27px;
+    margin-top: 62px;
+    
+}
+h2 {
+    color: #33793f;
+    font-family: 'EB Garamond', serif;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 40%;
+}
+h6 {
+    color: #999;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: medium;
+    letter-spacing: 0.1em;
+    margin-bottom: 20%;
+}
+
+p {
+    color: #999;
+    font-size: 24px;
+    font-family:  'EB Garamond', serif;
+    font-weight: normal;
+    line-height: 10%;
+    }
+.city {
+    margin-bottom: 15%;
+}
